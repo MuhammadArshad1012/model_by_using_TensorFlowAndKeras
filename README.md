@@ -1,2 +1,0 @@
-# model_by_using_TensorFlowAndKeras
-Machine Learning Models
